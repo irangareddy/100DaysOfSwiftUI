@@ -1,6 +1,5 @@
 import UIKit
 
-var str = "Hello, playground"
 
 // MARK:- For loops
 
@@ -73,11 +72,11 @@ repeat {
 // MARK:- Inifinite loops
 
 
-//var counter = 1
-//repeat {
-//    print("Counting: \(counter)")
-//    counter += 2
-//} while counter != 10
+var counter = 1
+repeat {
+   print("Counting: \(counter)")
+   counter += 2
+} while counter != 10
 
 
 // MARK:- Summary
@@ -92,8 +91,3 @@ repeat {
 //Infinite loops don’t end until you ask them to, and are made using while true. Make sure you have a condition somewhere to end your infinite loops!
 
 
-for _ in 1...3 {
-    print("Happy birthday to you")
-}
-print("Happy birthday dear Taylor")
-print("Happy birthday to you")
