@@ -8,4 +8,5 @@ Paul Hudson free 100DaysOfSwiftUI Course
 | 3 | Swift | Operations and Conditions|
 | 4 | Swift | Loops |
 | 5 | Swift |Functions, Parameters, and Errors|
-| 6 | Swift |Cloures Part 1|
+| 6 | Swift |Closures Part 1|
+| 7 | Swift |Closures Part 2|
