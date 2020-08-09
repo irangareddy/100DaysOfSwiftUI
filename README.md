@@ -10,3 +10,4 @@ Paul Hudson free 100DaysOfSwiftUI Course
 | 5 | Swift |Functions, Parameters, and Errors|
 | 6 | Swift |Closures Part 1|
 | 7 | Swift |Closures Part 2|
+| 8 | Swift | Structs, properties, and methods|
