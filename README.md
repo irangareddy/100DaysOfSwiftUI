@@ -12,3 +12,4 @@ Paul Hudson free 100DaysOfSwiftUI Course
 | 7 | Swift |Closures Part 2|
 | 8 | Swift | Structs Part 1, properties, and methods|
 | 9 | Swift | Structs Part 2, access control, static properties, and laziness|
+| 10 | Swift | Classes and Inheritance|
