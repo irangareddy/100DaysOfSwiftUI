@@ -17,3 +17,4 @@ Paul Hudson free 100DaysOfSwiftUI Course
 | 12 | Swift |optionals, unwrapping, and typecasting|
 | 13 | Swift Review | Variables and constants, Types of Data, Operators, String interpolation, Arrays, Dictionaries, Conditional statements, Loops, Switch case|
 | 14 | Swift Review | Functions Optionals, Optional chaining, Enumerations, Structs, Classes | 
+| 15 | Swift Review |Properties,Static properties and methods, Access control, Polymorphism and typecasting, Closures
