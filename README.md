@@ -29,7 +29,12 @@ Paul Hudson free 100DaysOfSwiftUI Course
 ### SwiftUI
 
 | Day | Project | 
-| :---: | :---: | 
+| :---: | :--- | 
 | 16 | [WeSplit #1](https://github.com/irangareddy/WeSplit/tree/4c15b3d32633ca6076acd4ce3d75bdb505eee99f) |
+| 17 | [WeSplit #2](https://github.com/irangareddy/WeSplit/tree/3e6afeb7818f5f55d065ba9205b6bbdba88b3390) |
+| 18 | [WeSplit #3](https://github.com/irangareddy/WeSplit) |
+| 19 | [Convertz](https://github.com/irangareddy/Convertz) |
+| 20 | [Guess the Flag #1](https://github.com/irangareddy/Guess-the-Flag/tree/3a906dac8356da30eb11a6682554a39ac2e20e10) |
+
 
 
