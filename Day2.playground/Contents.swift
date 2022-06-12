@@ -20,6 +20,8 @@ colors = Set(["red", "green", "blue","red","yellow","green"])
 
 // MARK:- Tuples
 
+var company = (name: "Zomato", role: "SDE-1 (iOS Developer)")
+
 var person = (name: "Paul", age: 40, isMarried: true)
 person.0
 person.isMarried
@@ -50,6 +52,9 @@ let favoriteIceCream = [
     "Ranga":"ButterScoch","Sunny":"Choclate"]
 
 favoriteIceCream["ram",default: "Not avaiable"]
+
+let capitals = ["England": "London", "Wales": "Cardiff"]
+let scotlandCapital = capitals["Scotland"]
 
 // MARK:- Creating empty collections
 
@@ -86,16 +91,14 @@ Alerts.message(from: "Ranga", data: "Hi there")
 // MARK:- Enum raw values
 
 
-enum Level: Int {
-    case bronze = 1
+enum Level: String {
+    case bronze = "bronze"
     case gold
     case diamond
     case platinum
 }
 
-
 Level.gold.rawValue
-
 
 // MARK:- Summary
 

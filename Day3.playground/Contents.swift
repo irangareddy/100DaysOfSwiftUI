@@ -16,7 +16,11 @@ let weeks = 465 / 7
 let days =  465 % 7
 print("There are \(weeks) weeks and \(days) days until the event.")
 
-let isMultiple = weeks.distance(to: 6)
+
+let advancedBy = weeks.advanced(by: 10)
+let distance = weeks.distance(to: 6)
+let isMultiple = weeks.isMultiple(of: 6)
+
 
 
 // MARK:- Operator overloading

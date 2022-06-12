@@ -16,6 +16,7 @@ var name =  "Ranga Reddy"
 var age = 20
 var salary = 1_000_000
 
+
 // What I understood is ?
 // Here we have three variables of two data types. When you create a variable Swift can figure out what type the variable is based on what kind of data you assign to it, and from then on that variable will always have that one specific type.
 

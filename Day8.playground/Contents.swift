@@ -2,7 +2,7 @@ import UIKit
 
 // MARK:- Structs
 
-// MARK:- Creating your own structs
+// MARK:- Creating your own DataTypes
 
 struct User {
     var name: String

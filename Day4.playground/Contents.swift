@@ -54,6 +54,7 @@ outerloop: for _ in 0..<3 {
             print(i)
             break outerloop
         }
+
     }
 }
 
@@ -66,17 +67,17 @@ repeat {
     if carsProduced % 2 == 0 {
         continue
     }
-    print("Another car was built.")
+    print("\(carsProduced) car was built.")
 } while carsProduced < 20
 
 // MARK:- Inifinite loops
 
 
-var counter = 1
+var counter = 0
 repeat {
    print("Counting: \(counter)")
    counter += 2
-} while counter != 10
+} while counter < 10
 
 
 // MARK:- Summary

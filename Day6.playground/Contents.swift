@@ -41,7 +41,7 @@ isMyBirthday()
 let resignation = { (name: String) in
     print("Dear \(name), I'm outta here!")
 }
-func printDocument(contents: () -> Void) {
+func printDocument(_ contents: () -> Void) {
     print("Connecting to printer...")
     print("Sending document...")
     contents()
@@ -49,7 +49,7 @@ func printDocument(contents: () -> Void) {
 printDocument {
     resignation("Ranga")
 }
-
+printDocument(greet)
 
 let writting = {
     print("I am Writting")

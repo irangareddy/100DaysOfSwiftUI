@@ -102,7 +102,15 @@ func openFile(_ name: String...) {
     }
 }
 
+func openInt(_ name: Int...) {
+    for item in name {
+        print("opening...\(item)")
+    }
+}
+
+
 openFile("Resume.pdf","Profile.jpg","Office.doc")
+openInt(1,2,3,43,4,3)
 
 
 // MARK:- Writing throwing functions
